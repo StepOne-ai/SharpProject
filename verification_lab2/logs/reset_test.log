@@ -1,0 +1,472 @@
+Test reset_test is found in plusargs, added to queue.
+[reset_test] started.
+0 [reset_test.env0.clk_sig_agent.monitor] started.
+0 [reset_test.env0.resetn_sig_agent.driver] started.
+0 [reset_test.env0.resetn_sig_agent.monitor] started.
+0 [reset_test.env0.in_agent.driver] started.
+0 [reset_test.env0.in_agent.monitor] started.
+0 [reset_test.env0.out_agent.driver] started.
+0 [reset_test.env0.out_agent.monitor] started.
+0 [reset_test.env0.reference] started.
+0 [reset_test.env0.scb] started.
+0 [reset_test.env0.clk_sig_agent.driver] recieved new clock transaction.
+20000 [reset_test.env0.resetn_sig_agent.driver] recieved new transaction.
+100000 [reset_test.env0.resetn_sig_agent.driver] is driving the transaction.
+860000 [reset_test.env0.in_agent.driver] recieved new transaction.
+860000 [reset_test.env0.resetn_sig_agent.driver] recieved new transaction.
+900000 [reset_test.env0.in_agent.driver] is driving the transaction.
+900000 [reset_test.env0.in_agent.driver] recieved new transaction.
+900000 [reset_test.env0.resetn_sig_agent.driver] is driving the transaction.
+940000 [reset_test.env0.in_agent.driver] is driving the transaction.
+940000 [reset_test.env0.in_agent.driver] recieved new transaction.
+980000 [reset_test.env0.in_agent.driver] is driving the transaction.
+980000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1020000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1020000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1060000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1060000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1100000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1100000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1500000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1500000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1540000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1540000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1580000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1580000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1620000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1620000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1660000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1660000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1700000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1700000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1740000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1740000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1780000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1780000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1820000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1820000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1860000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1860000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1900000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1900000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1940000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1940000 [reset_test.env0.in_agent.driver] recieved new transaction.
+1980000 [reset_test.env0.in_agent.driver] is driving the transaction.
+1980000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2020000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2020000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2060000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2060000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2100000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2100000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2140000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2140000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2180000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2180000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2220000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2220000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2260000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2260000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2300000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2300000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2340000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2380000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2420000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2420000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2460000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2460000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2500000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2500000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2540000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2540000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2580000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2580000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2620000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2620000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2660000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2660000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2700000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2700000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2740000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2740000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2780000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2780000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2820000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2820000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2860000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2860000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2900000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2900000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2940000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2940000 [reset_test.env0.in_agent.driver] recieved new transaction.
+2980000 [reset_test.env0.in_agent.driver] is driving the transaction.
+2980000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3020000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3020000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3060000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3060000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3100000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3100000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3140000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3140000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3180000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3180000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3220000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3220000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3260000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3260000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3300000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3300000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3340000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3340000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3380000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3380000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3420000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3420000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3460000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3740000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3740000 [reset_test.env0.resetn_sig_agent.driver] recieved new transaction.
+3780000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3780000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3780000 [reset_test.env0.resetn_sig_agent.driver] is driving the transaction.
+3820000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3820000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3860000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3860000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3900000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3900000 [reset_test.env0.in_agent.driver] recieved new transaction.
+3940000 [reset_test.env0.in_agent.driver] is driving the transaction.
+3940000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4380000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4380000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4420000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4420000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4460000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4460000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4500000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4500000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4540000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4540000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4580000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4580000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4620000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4620000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4660000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4660000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4700000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4700000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4740000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4740000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4780000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4780000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4820000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4820000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4860000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4860000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4900000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4900000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4940000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4940000 [reset_test.env0.in_agent.driver] recieved new transaction.
+4980000 [reset_test.env0.in_agent.driver] is driving the transaction.
+4980000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5020000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5020000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5060000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5060000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5100000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5100000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5140000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5140000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5180000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5180000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5220000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5220000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5260000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5260000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5300000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5340000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5380000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5380000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5420000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5420000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5460000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5460000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5500000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5500000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5540000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5540000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5580000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5580000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5620000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5620000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5660000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5660000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5700000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5700000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5740000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5740000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5780000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5780000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5820000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5820000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5860000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5860000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5900000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5900000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5940000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5940000 [reset_test.env0.in_agent.driver] recieved new transaction.
+5980000 [reset_test.env0.in_agent.driver] is driving the transaction.
+5980000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6020000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6020000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6060000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6060000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6100000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6100000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6140000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6140000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6180000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6180000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6220000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6220000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6260000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6260000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6300000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6300000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6340000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6340000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6380000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6380000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6420000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6420000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6460000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6460000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6500000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6900000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6900000 [reset_test.env0.resetn_sig_agent.driver] recieved new transaction.
+6940000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6940000 [reset_test.env0.in_agent.driver] recieved new transaction.
+6940000 [reset_test.env0.resetn_sig_agent.driver] is driving the transaction.
+6980000 [reset_test.env0.in_agent.driver] is driving the transaction.
+6980000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7020000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7020000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7060000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7060000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7100000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7100000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7140000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7140000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7180000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7180000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7540000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7540000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7580000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7580000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7620000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7620000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7660000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7660000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7700000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7700000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7740000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7740000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7780000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7780000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7820000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7820000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7860000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7860000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7900000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7900000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7940000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7940000 [reset_test.env0.in_agent.driver] recieved new transaction.
+7980000 [reset_test.env0.in_agent.driver] is driving the transaction.
+7980000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8020000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8020000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8060000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8060000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8100000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8100000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8140000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8140000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8180000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8180000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8220000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8220000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8260000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8260000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8300000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8340000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8380000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8380000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8420000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8420000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8460000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8460000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8500000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8500000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8540000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8540000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8580000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8580000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8620000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8620000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8660000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8660000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8700000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8700000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8740000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8740000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8780000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8780000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8820000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8820000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8860000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8860000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8900000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8900000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8940000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8940000 [reset_test.env0.in_agent.driver] recieved new transaction.
+8980000 [reset_test.env0.in_agent.driver] is driving the transaction.
+8980000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9020000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9020000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9060000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9060000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9100000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9100000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9140000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9140000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9180000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9180000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9220000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9220000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9260000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9260000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9300000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9300000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9340000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9340000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9380000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9620000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9620000 [reset_test.env0.resetn_sig_agent.driver] recieved new transaction.
+9660000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9660000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9660000 [reset_test.env0.resetn_sig_agent.driver] is driving the transaction.
+9700000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9700000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9740000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9740000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9780000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9780000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9820000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9820000 [reset_test.env0.in_agent.driver] recieved new transaction.
+9860000 [reset_test.env0.in_agent.driver] is driving the transaction.
+9860000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10180000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10180000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10220000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10220000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10260000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10260000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10300000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10300000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10340000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10340000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10380000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10380000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10420000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10420000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10460000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10460000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10500000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10500000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10540000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10540000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10580000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10580000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10620000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10620000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10660000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10660000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10700000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10700000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10740000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10740000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10780000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10820000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10860000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10860000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10900000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10900000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10940000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10940000 [reset_test.env0.in_agent.driver] recieved new transaction.
+10980000 [reset_test.env0.in_agent.driver] is driving the transaction.
+10980000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11020000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11020000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11060000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11060000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11100000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11100000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11140000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11140000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11180000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11180000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11220000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11220000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11260000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11260000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11300000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11300000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11340000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11340000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11380000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11380000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11420000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11420000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11460000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11460000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11500000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11500000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11540000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11540000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11580000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11580000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11620000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11620000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11660000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11660000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11700000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11700000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11740000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11740000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11780000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11780000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11820000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11820000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11860000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11860000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11900000 [reset_test.env0.in_agent.driver] is driving the transaction.
+11900000 [reset_test.env0.in_agent.driver] recieved new transaction.
+11940000 [reset_test.env0.in_agent.driver] is driving the transaction.
+16180000 [reset_test.env0.reference] stopped.
+16180000 [reset_test.env0.scb] stopped.
+16180000 [reset_test.env0.clk_sig_agent.monitor] stopped.
+[reset_test.env0.scb] Scoreboard statistics: 
+DUT TRANSACTIONS:        200
+REF TRANSACTIONS:        200
+COMPARES        :        200
+COMPARE ERRORS  :          0
+DUT ORPHANS     :          0
+REF ORPHANS     :          0
+- lab/unit_verif/testbench/tb_top.sv:46: Verilog $finish
+COVERBIN ZERO_SHIFT                        35
+COVERBIN SHIFT_LESSER_THAN_MANTISSA_WIDTH  160
+COVERBIN SHIFT_GREATER_THAN_MANTISSA_WIDTH 21
+COVERBIN INPUT_VALUES_SPARSE_STREAM        0
+COVERBIN INPUT_VALUES_TIGHT_STREAM         192
+COVERBIN AFTER_GRS_ROUND_UP                84
+COVERBIN AFTER_GRS_ROUND_DOWN              124

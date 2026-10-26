@@ -1,0 +1,8 @@
+// Заглушка вместо зашифрованного (Questa) пакета проверок этапов - только для локального прогона
+package env_base_chk;
+  int unsigned num_agents = 0;
+  int unsigned num_scb = 0;
+  bit ref_created = 0;
+  function automatic void run_checks();
+  endfunction
+endpackage

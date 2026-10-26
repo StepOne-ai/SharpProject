@@ -1,0 +1,132 @@
+Test round_test is found in plusargs, added to queue.
+[round_test] started.
+0 [round_test.env0.clk_sig_agent.monitor] started.
+0 [round_test.env0.resetn_sig_agent.driver] started.
+0 [round_test.env0.resetn_sig_agent.monitor] started.
+0 [round_test.env0.in_agent.driver] started.
+0 [round_test.env0.in_agent.monitor] started.
+0 [round_test.env0.out_agent.driver] started.
+0 [round_test.env0.out_agent.monitor] started.
+0 [round_test.env0.reference] started.
+0 [round_test.env0.scb] started.
+0 [round_test.env0.clk_sig_agent.driver] recieved new clock transaction.
+20000 [round_test.env0.resetn_sig_agent.driver] recieved new transaction.
+100000 [round_test.env0.resetn_sig_agent.driver] is driving the transaction.
+860000 [round_test.env0.in_agent.driver] recieved new transaction.
+900000 [round_test.env0.in_agent.driver] is driving the transaction.
+940000 [round_test.env0.in_agent.driver] recieved new transaction.
+980000 [round_test.env0.in_agent.driver] is driving the transaction.
+1020000 [round_test.env0.in_agent.driver] recieved new transaction.
+1060000 [round_test.env0.in_agent.driver] is driving the transaction.
+1100000 [round_test.env0.in_agent.driver] recieved new transaction.
+1140000 [round_test.env0.in_agent.driver] is driving the transaction.
+1180000 [round_test.env0.in_agent.driver] recieved new transaction.
+1220000 [round_test.env0.in_agent.driver] is driving the transaction.
+1260000 [round_test.env0.in_agent.driver] recieved new transaction.
+1300000 [round_test.env0.in_agent.driver] is driving the transaction.
+1340000 [round_test.env0.in_agent.driver] recieved new transaction.
+1380000 [round_test.env0.in_agent.driver] is driving the transaction.
+1420000 [round_test.env0.in_agent.driver] recieved new transaction.
+1460000 [round_test.env0.in_agent.driver] is driving the transaction.
+1500000 [round_test.env0.in_agent.driver] recieved new transaction.
+1540000 [round_test.env0.in_agent.driver] is driving the transaction.
+1580000 [round_test.env0.in_agent.driver] recieved new transaction.
+1620000 [round_test.env0.in_agent.driver] is driving the transaction.
+1980000 [round_test.env0.in_agent.driver] recieved new transaction.
+2020000 [round_test.env0.in_agent.driver] is driving the transaction.
+2060000 [round_test.env0.in_agent.driver] recieved new transaction.
+2100000 [round_test.env0.in_agent.driver] is driving the transaction.
+2140000 [round_test.env0.in_agent.driver] recieved new transaction.
+2180000 [round_test.env0.in_agent.driver] is driving the transaction.
+2220000 [round_test.env0.in_agent.driver] recieved new transaction.
+2260000 [round_test.env0.in_agent.driver] is driving the transaction.
+2300000 [round_test.env0.in_agent.driver] recieved new transaction.
+2340000 [round_test.env0.in_agent.driver] is driving the transaction.
+2380000 [round_test.env0.in_agent.driver] recieved new transaction.
+2420000 [round_test.env0.in_agent.driver] is driving the transaction.
+2460000 [round_test.env0.in_agent.driver] recieved new transaction.
+2500000 [round_test.env0.in_agent.driver] is driving the transaction.
+2540000 [round_test.env0.in_agent.driver] recieved new transaction.
+2580000 [round_test.env0.in_agent.driver] is driving the transaction.
+2620000 [round_test.env0.in_agent.driver] recieved new transaction.
+2660000 [round_test.env0.in_agent.driver] is driving the transaction.
+2700000 [round_test.env0.in_agent.driver] recieved new transaction.
+2740000 [round_test.env0.in_agent.driver] is driving the transaction.
+3100000 [round_test.env0.in_agent.driver] recieved new transaction.
+3140000 [round_test.env0.in_agent.driver] is driving the transaction.
+3180000 [round_test.env0.in_agent.driver] recieved new transaction.
+3220000 [round_test.env0.in_agent.driver] is driving the transaction.
+3260000 [round_test.env0.in_agent.driver] recieved new transaction.
+3300000 [round_test.env0.in_agent.driver] is driving the transaction.
+3340000 [round_test.env0.in_agent.driver] recieved new transaction.
+3380000 [round_test.env0.in_agent.driver] is driving the transaction.
+3420000 [round_test.env0.in_agent.driver] recieved new transaction.
+3460000 [round_test.env0.in_agent.driver] is driving the transaction.
+3500000 [round_test.env0.in_agent.driver] recieved new transaction.
+3540000 [round_test.env0.in_agent.driver] is driving the transaction.
+3580000 [round_test.env0.in_agent.driver] recieved new transaction.
+3620000 [round_test.env0.in_agent.driver] is driving the transaction.
+3660000 [round_test.env0.in_agent.driver] recieved new transaction.
+3700000 [round_test.env0.in_agent.driver] is driving the transaction.
+3740000 [round_test.env0.in_agent.driver] recieved new transaction.
+3780000 [round_test.env0.in_agent.driver] is driving the transaction.
+3820000 [round_test.env0.in_agent.driver] recieved new transaction.
+3860000 [round_test.env0.in_agent.driver] is driving the transaction.
+4140000 [round_test.env0.in_agent.driver] recieved new transaction.
+4180000 [round_test.env0.in_agent.driver] is driving the transaction.
+4220000 [round_test.env0.in_agent.driver] recieved new transaction.
+4260000 [round_test.env0.in_agent.driver] is driving the transaction.
+4300000 [round_test.env0.in_agent.driver] recieved new transaction.
+4340000 [round_test.env0.in_agent.driver] is driving the transaction.
+4380000 [round_test.env0.in_agent.driver] recieved new transaction.
+4420000 [round_test.env0.in_agent.driver] is driving the transaction.
+4460000 [round_test.env0.in_agent.driver] recieved new transaction.
+4500000 [round_test.env0.in_agent.driver] is driving the transaction.
+4540000 [round_test.env0.in_agent.driver] recieved new transaction.
+4580000 [round_test.env0.in_agent.driver] is driving the transaction.
+4620000 [round_test.env0.in_agent.driver] recieved new transaction.
+4660000 [round_test.env0.in_agent.driver] is driving the transaction.
+4700000 [round_test.env0.in_agent.driver] recieved new transaction.
+4740000 [round_test.env0.in_agent.driver] is driving the transaction.
+4780000 [round_test.env0.in_agent.driver] recieved new transaction.
+4820000 [round_test.env0.in_agent.driver] is driving the transaction.
+4860000 [round_test.env0.in_agent.driver] recieved new transaction.
+4900000 [round_test.env0.in_agent.driver] is driving the transaction.
+5140000 [round_test.env0.in_agent.driver] recieved new transaction.
+5180000 [round_test.env0.in_agent.driver] is driving the transaction.
+5220000 [round_test.env0.in_agent.driver] recieved new transaction.
+5260000 [round_test.env0.in_agent.driver] is driving the transaction.
+5300000 [round_test.env0.in_agent.driver] recieved new transaction.
+5340000 [round_test.env0.in_agent.driver] is driving the transaction.
+5380000 [round_test.env0.in_agent.driver] recieved new transaction.
+5420000 [round_test.env0.in_agent.driver] is driving the transaction.
+5460000 [round_test.env0.in_agent.driver] recieved new transaction.
+5500000 [round_test.env0.in_agent.driver] is driving the transaction.
+5540000 [round_test.env0.in_agent.driver] recieved new transaction.
+5580000 [round_test.env0.in_agent.driver] is driving the transaction.
+5620000 [round_test.env0.in_agent.driver] recieved new transaction.
+5660000 [round_test.env0.in_agent.driver] is driving the transaction.
+5700000 [round_test.env0.in_agent.driver] recieved new transaction.
+5740000 [round_test.env0.in_agent.driver] is driving the transaction.
+5780000 [round_test.env0.in_agent.driver] recieved new transaction.
+5820000 [round_test.env0.in_agent.driver] is driving the transaction.
+5860000 [round_test.env0.in_agent.driver] recieved new transaction.
+5900000 [round_test.env0.in_agent.driver] is driving the transaction.
+10140000 [round_test.env0.reference] stopped.
+10140000 [round_test.env0.scb] stopped.
+10140000 [round_test.env0.clk_sig_agent.monitor] stopped.
+[round_test.env0.scb] Scoreboard statistics: 
+DUT TRANSACTIONS:         50
+REF TRANSACTIONS:         50
+COMPARES        :         50
+COMPARE ERRORS  :          0
+DUT ORPHANS     :          0
+REF ORPHANS     :          0
+- lab/unit_verif/testbench/tb_top.sv:46: Verilog $finish
+COVERBIN ZERO_SHIFT                        5
+COVERBIN SHIFT_LESSER_THAN_MANTISSA_WIDTH  30
+COVERBIN SHIFT_GREATER_THAN_MANTISSA_WIDTH 15
+COVERBIN INPUT_VALUES_SPARSE_STREAM        40
+COVERBIN INPUT_VALUES_TIGHT_STREAM         0
+COVERBIN AFTER_GRS_ROUND_UP                25
+COVERBIN AFTER_GRS_ROUND_DOWN              25

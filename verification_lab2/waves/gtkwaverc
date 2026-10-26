@@ -1,0 +1,7 @@
+fontname_signals Monospace 12
+fontname_waves Monospace 10
+use_big_fonts yes
+splash_disable on
+enable_vert_grid yes
+show_base_symbols no
+disable_tooltips yes

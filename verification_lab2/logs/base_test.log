@@ -1,0 +1,32 @@
+Test base_test is found in plusargs, added to queue.
+[base_test] started.
+0 [base_test.env0.clk_sig_agent.monitor] started.
+0 [base_test.env0.resetn_sig_agent.driver] started.
+0 [base_test.env0.resetn_sig_agent.monitor] started.
+0 [base_test.env0.in_agent.driver] started.
+0 [base_test.env0.in_agent.monitor] started.
+0 [base_test.env0.out_agent.driver] started.
+0 [base_test.env0.out_agent.monitor] started.
+0 [base_test.env0.reference] started.
+0 [base_test.env0.scb] started.
+0 [base_test.env0.clk_sig_agent.driver] recieved new clock transaction.
+20000 [base_test.env0.resetn_sig_agent.driver] recieved new transaction.
+100000 [base_test.env0.resetn_sig_agent.driver] is driving the transaction.
+4460000 [base_test.env0.reference] stopped.
+4460000 [base_test.env0.scb] stopped.
+4460000 [base_test.env0.clk_sig_agent.monitor] stopped.
+[base_test.env0.scb] Scoreboard statistics: 
+DUT TRANSACTIONS:          0
+REF TRANSACTIONS:          0
+COMPARES        :          0
+COMPARE ERRORS  :          0
+DUT ORPHANS     :          0
+REF ORPHANS     :          0
+- lab/unit_verif/testbench/tb_top.sv:46: Verilog $finish
+COVERBIN ZERO_SHIFT                        0
+COVERBIN SHIFT_LESSER_THAN_MANTISSA_WIDTH  0
+COVERBIN SHIFT_GREATER_THAN_MANTISSA_WIDTH 0
+COVERBIN INPUT_VALUES_SPARSE_STREAM        0
+COVERBIN INPUT_VALUES_TIGHT_STREAM         0
+COVERBIN AFTER_GRS_ROUND_UP                0
+COVERBIN AFTER_GRS_ROUND_DOWN              0

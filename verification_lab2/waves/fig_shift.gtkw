@@ -1,0 +1,33 @@
+[dumpfile] "shift_test.vcd"
+[size] 1100 585
+[pos] 0 0
+[sst_width] 1
+[signals_width] 172
+[sst_expanded] 0
+[sst_vpaned_height] 100
+@28
+TOP.tb_top.w.clk
+TOP.tb_top.w.resetn
+TOP.tb_top.w.in_valid
+@24
+TOP.tb_top.w.in_shift[5:0]
+@22
+TOP.tb_top.w.in_mant[51:0]
+@28
+TOP.tb_top.w.out_valid
+@22
+TOP.tb_top.w.out_mant[51:0]
+@200
+-
+-mant_shifter_inst
+@28
+TOP.tb_top.dut.mant_shifter_inst.stage1_valid
+@22
+TOP.tb_top.dut.mant_shifter_inst.stage1_mant[51:0]
+@28
+TOP.tb_top.dut.mant_shifter_inst.stage1_G
+TOP.tb_top.dut.mant_shifter_inst.stage1_R
+TOP.tb_top.dut.mant_shifter_inst.stage1_S
+TOP.tb_top.dut.mant_shifter_inst.round_up
+[pattern_trace] 1
+[pattern_trace] 0
