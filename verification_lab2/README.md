@@ -3,6 +3,9 @@
 - `Отчет_ЛР2_верификация_mant_shifter_вариант14.pdf` – отчет: на титуле «№ 2», рисунки 2–4 заменены
   снимками GTKWave из реального прогона, таблица 6 – значения первого прохода теста round из того же
   прогона, добавлен источник [8] (GTKWave). Остальные страницы не изменены.
+- `Отчет_ЛР2_верификация_mant_shifter_вариант14.docx` – тот же отчет в Word (собран заново по тексту PDF,
+  24 страницы; содержание – статический текст с номерами страниц по рендеру LibreOffice).
+  Генератор: `docx_build/build.js` (docx-js) и `docx_build/toc_pages.py`.
 - `waves/` – VCD тестов shift/stream/reset/round (seed 12345), снимки `fig_*.png`, файлы `.gtkw`/`.tcl`
   (окна GTKWave), `gtkwaverc`. Открыть: `cd waves && gtkwave -r gtkwaverc -a fig_stream.gtkw -S fig_stream.tcl`.
 - `logs/` – логи тестов (статистика табло в конце каждого лога).
