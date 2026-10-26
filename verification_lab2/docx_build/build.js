@@ -164,10 +164,10 @@ function titlePage() {
     tp([run("по лабораторной работе № ", { bold: true }), run("2", { bold: true, size: 32 })], { align: AlignmentType.CENTER }),
     tp([run("Вариант ", { bold: true }), run("14", { bold: true, size: 32 })], { align: AlignmentType.CENTER }),
     tp([run("«Верификация модуля сдвига и округления мантиссы mant_shifter»", { bold: true })], { align: AlignmentType.CENTER, spacing: { before: 240 } }),
-    tp([t12("Дисциплина: "), t12("______________________________", true)], { align: AlignmentType.CENTER, spacing: { before: 120 } }),
+    tp([t12("Дисциплина: "), t12("Организация ЭВМ и систем", true)], { align: AlignmentType.CENTER, spacing: { before: 120 } }),
     ...gap(2),
     sig("Студент группы ИУ6-72Б", "С.Ю. Кондратов"), ...gap(1),
-    sig("Преподаватель", ""), ...gap(2),
+    sig("Преподаватель", "А.Ю. Попов"), ...gap(2),
     tp([t12("Оценка ______________")]),
   ];
 }
